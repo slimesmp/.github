@@ -5,7 +5,7 @@
 
 <p align=center> <img src="./icon.webp" alt="An image of a Minecraft slime (Slime SMP's icon)." height=200 width=200 /> </p>
 
-<p align=center> <b> IP </b>: <code> slimesmp.xyz </code> </p>
+<p align=center> <code> slimesmp.xyz </code> </p>
 
 <p align=center> <sup> The server may or may not be on, depending on whether there is a season on right now or not! </sup> </p>
 
