@@ -5,4 +5,4 @@
 
 <p align = center> <img src="./icon.webp" alt="An image of a Minecraft slime (Slime SMP's icon)." height=200 width=200 /> </p>
 
-<p align=center> Slime SMP is a multi-platform survival multiplayer Minecraft server hosted by <a href="https://www.github.com/EsotericEnderman">@Esoteric Enderman</a>. </p>
+<p align=center> <b> Slime SMP is a multi-platform survival multiplayer Minecraft server hosted by <a href="https://www.github.com/EsotericEnderman">@Esoteric Enderman</a>. </b> </p>
