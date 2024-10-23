@@ -2,4 +2,4 @@
 
 <p align=center> <sup> By the <a href="https://www.github.com/EsotericFoundation">Esoteric Foundation</a> </sup> </p>
 
-<p align=center> Slime SMP is a multi-platform survival multiplayer Minecraft server hosted by [@Esoteric Enderman](https://www.github.com/EsotericEnderman). </p>
+<p align=center> Slime SMP is a multi-platform survival multiplayer Minecraft server hosted by <a href="https://www.github.com/EsotericEnderman">@Esoteric Enderman</a>. </p>
