@@ -14,4 +14,4 @@
 <br>
 
 <p align=center> This repository contains projects related to the SMP. </p>
-<p align=center> That includes plugins, configurations, and information about the project! </p>
+<p align=center> That includes plugins, configurations, and information about the server! </p>
