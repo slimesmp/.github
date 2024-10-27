@@ -2,7 +2,6 @@
 
 <p align=center> <sup> By the <a href="https://www.github.com/EsotericFoundation">Esoteric Foundation</a> </sup> </p>
 
-
 <p align=center> <a href="https://www.github.com/SlimeSMP"><img src="./icon.webp" alt="An image of a Minecraft slime (Slime SMP's icon)." height=200 width=200 /></a> </p>
 
 <p align=center> <code>slimesmp.xyz</code> </p>
