@@ -1,5 +1,7 @@
 # Slime SMP
 
+[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+
 > Files related to the [Slime SMP](https://github.com/SlimeSMP) project!
 
 ## License
